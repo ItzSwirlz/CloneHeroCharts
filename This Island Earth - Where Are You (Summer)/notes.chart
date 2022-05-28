@@ -1,0 +1,24 @@
+﻿[Song]
+{
+  Name = "Where Are You? (Summer)"
+  Artist = "This Island Earth"
+  Charter = "ItzSwirlz"
+  Year = ", 2022"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "rock"
+  MediaType = "cd"
+  MusicStream = "song.mp3"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 173000
+}
+[Events]
+{
+}
